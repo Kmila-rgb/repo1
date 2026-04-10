@@ -3,3 +3,5 @@ class persona():
         pass
     def saludar():
         return   print("hola mundo")
+    def años():
+        return print(18)
